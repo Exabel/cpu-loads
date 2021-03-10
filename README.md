@@ -17,8 +17,8 @@ The application should be able to answer the following questions:
 - It should maintain a 5 minute window of historical CPU load information.
 - It should alert/notify the user of high CPU load.
 - It should alert/notify the user when CPU load has recovered.
-- It should maintain a list of overloaded events
-- It should maintain a list of recovery events
+- It should maintain a list of overloaded events.
+- It should maintain a list of recovery events.
 
 ### Thresholds:
 
